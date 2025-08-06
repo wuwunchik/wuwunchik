@@ -9,7 +9,6 @@
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
-
 # 🌐 Socials:
 <p align="left">
 <a href="https://t.me/softness_abigail" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="wuwunchik" height="40" width="40" /></a>
@@ -28,3 +27,20 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=wuwunchik&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+## PET Projects:
+### **Dogs Breed Classifier** 
+
+**Stack**: Python 3, Streamlit
+
+[Project link](https://github.com/wuwunchik/streamlit_dogs_breed_classifier)
+
+-----------
+
+### **Vegetable/Fruit Classifier** 
+
+**Stack**: Python 3, Streamlit, MakeFile
+
+[Project link](https://github.com/wuwunchik/streamlit_app_assistant)
+
+-----------
