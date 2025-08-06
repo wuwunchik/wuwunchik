@@ -1,15 +1,14 @@
 ## Hi there 👋
 
+. **Education.** - **Secondary vocational, Incomplete higher education**
+2. **Additional education.** - **Took courses at School21 from Sberbank, completed retraining at the Sechenov Central Committee**
+3. **Work experience.** - **I have experience working in a service center as a developer of a module for an order system on the 1C programming language**
+4. **About myself.** - **I am interested in areas of programming related to scientific data, with the study of any patterns and extracting benefits for a person from them**
+
 # 💫 About Me:
 🔭 Now I am working on myself and my knowledge<br>
 👯 I am looking for cooperation on ML projects<br>
 🌱 Now I am studying at the Federal State Budgetary Educational Institution of Higher Education "Buryat State University named after Dorzhi Banzarov" <br>
-💬 Ask me in my [mail](mailto:atochin99@mail.ru) or [Telegram](https://t.me/softness_abigail) <br>
-
-1. **Education.** - **Secondary vocational, Incomplete higher education**
-2. **Additional education.** - **Took courses at School21 from Sberbank, completed retraining at the Sechenov Central Committee**
-3. **Work experience.** - **I have experience working in a service center as a developer of a module for an order system on the 1C programming language**
-4. **About myself.** - **I am interested in areas of programming related to scientific data, with the study of any patterns and extracting benefits for a person from them**
 
 # 🌐 Socials:
 <p align="left">
