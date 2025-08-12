@@ -32,6 +32,8 @@
 ## PET Projects:
 ### **Dogs Breed Classifier** 
 
+**Description**: This project leverages deep learning to identify dog breeds from images. Using a convolutional neural network trained on the Stanford Dogs Dataset, the application can classify images of dogs into one of 120 different breeds. The user-friendly interface, built with Streamlit, allows users to upload images and receive breed predictions along with additional information sourced from Wikipedia. This tool is ideal for dog enthusiasts, veterinarians, or anyone interested in identifying dog breeds quickly and accurately.
+
 **Stack**: Python 3, Streamlit
 
 [Project link](https://github.com/wuwunchik/streamlit_dogs_breed_classifier)
@@ -39,6 +41,8 @@
 -----------
 
 ### **Vegetable/Fruit Classifier** 
+
+**Description**: This project is a web application for classifying images of fruits and vegetables. It allows you to upload images and get predictions about what class the object in the photo belongs to.
 
 **Stack**: Python 3, Streamlit, MakeFile
 
